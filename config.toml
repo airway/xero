@@ -1,0 +1,24 @@
+title = "Newcastle Centric"
+baseurl = "/"
+languageCode = "en-us"
+theme = "Bootstrap"
+
+[params]
+	description = "test site"
+	author = "rlime"
+
+[taxonomies]
+	tag = "tags"
+	group = "groups"
+
+[[menu.main]]
+	name = "demo site"
+	pre = "<i class='fa fa-download'></i>"
+	url = "http://www.google.com"
+	weight = -200
+
+[[menu.main]]
+	name = "showcase"
+	pre = "<i class='fa fa-cubes'></i>"
+    url = "http://www.yahoo.com"
+    weight = -180

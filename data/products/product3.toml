@@ -1,0 +1,7 @@
+id = "3"
+title = "Test title 3"
+description = "Description for toml 3 would be here"
+url = "/"
+imgUrl = "http://placehold.it/400x150"
+price = "145.98"
+weight = "15"
